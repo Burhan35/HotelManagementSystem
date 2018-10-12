@@ -5,10 +5,6 @@
  */
 package hotelmanagementsystem;
 
-/**
- *
- * @author Enise Zengin
- */
 public class Roomtype {
     private String roomtypeid;
     private String typename;

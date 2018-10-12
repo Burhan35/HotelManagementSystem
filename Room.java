@@ -5,10 +5,6 @@
  */
 package hotelmanagementsystem;
 
-/**
- *
- * @author Enise Zengin
- */
 public class Room {
     
     private int roomid;

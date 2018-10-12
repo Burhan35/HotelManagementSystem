@@ -5,10 +5,6 @@
  */
 package hotelmanagementsystem;
 
-/**
- *
- * @author Enise Zengin
- */
 public class Stafftype {
     private int stafftypeid;
     private String stafftypename;

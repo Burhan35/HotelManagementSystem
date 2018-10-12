@@ -7,10 +7,6 @@ package hotelmanagementsystem;
 
 import java.util.Date;
 
-/**
- *
- * @author Enise Zengin
- */
 public class Invoice {
     private String customername;
     private Date dateofarrival;

@@ -16,10 +16,6 @@ import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author Enise Zengin
- */
 public class Hotel {
 
     private Roomtype[] roomtypes = new Roomtype[3];
